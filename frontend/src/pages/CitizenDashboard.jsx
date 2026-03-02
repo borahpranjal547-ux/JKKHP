@@ -49,6 +49,7 @@ export default function CitizenDashboard() {
         {applications.map((a) => (
           <article key={a._id} className="card">
             <h4>{a.service?.name}</h4>
+            <p>Tracking ID: {a.trackingId}</p>
             <p>Status: {a.status}</p>
             <p>Payment: {a.paymentStatus}</p>
             <p>Remarks: {a.adminRemarks || 'NA'}</p>
