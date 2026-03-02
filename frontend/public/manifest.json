@@ -1,0 +1,9 @@
+{
+  "name": "Digital Citizen Service Portal",
+  "short_name": "Citizen Portal",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f3d91",
+  "icons": []
+}
