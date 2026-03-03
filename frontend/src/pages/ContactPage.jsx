@@ -1,0 +1,1 @@
+export default function ContactPage() { return <main className="max-w-3xl mx-auto p-4"><h1 className="text-2xl font-bold">Contact</h1><p>Email: support@digitalcitizen.gov.in</p><p>Helpline: 1800-123-456</p></main>; }

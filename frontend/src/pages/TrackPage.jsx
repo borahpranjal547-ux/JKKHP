@@ -1,0 +1,1 @@
+export default function TrackPage() { return <main className="max-w-3xl mx-auto p-4"><h1 className="text-2xl font-bold">Track Application</h1><p className="mt-2 text-slate-600">Login to view real-time status updates: Submitted → Under Review → Approved/Rejected → Completed.</p></main>; }
